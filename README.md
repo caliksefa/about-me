@@ -5,12 +5,6 @@ It marks the beginning of my frontend development journey and showcases basic la
 
 ---
 
-## 📸 Screenshot
-
-![about-me-preview](images/preview.png) <!-- Optional: Replace with actual screenshot -->
-
----
-
 ## 🌟 Features
 
 - Clean and semantic HTML structure
